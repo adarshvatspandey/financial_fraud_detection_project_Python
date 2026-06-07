@@ -8,8 +8,6 @@ The project follows a complete Data Analytics workflow:
 
 **Data Loading → Data Cleaning → Feature Engineering → Data Aggregation → Fraud Analysis → Insights Generation**
 
-![image](https://github.com/adarshvatspandey/financial_fraud_detection_project_Python/blob/eaad13486cbd03b23bb7e493e0c263cde548db0a/.imagejpg.jpg)
-
 ![image](https://github.com/adarshvatspandey/financial_fraud_detection_project_Python/blob/32ca25470e5bb76f802d9fd6fe856ca68bed0bd5/fraud%20detection.png)
 
 ---
